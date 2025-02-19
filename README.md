@@ -1,1 +1,1 @@
-This is the file od ReadMe.md it is creating in VScode
+This is the file ReadMe.md it is creating in VScode
